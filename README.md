@@ -23,7 +23,7 @@ A cross-platform mobile application for learning English vocabulary through inte
 
 | Ana Ekran | Tema | Eşleştirme Modu | Ayarlar |
 | :---: | :---: | :---: | :---: |
-| ![Screen1](assets/1.png) | ![Screen2](assets/2.png) | ![Screen3](assets/3.png) | | ![Screen3](assets/4.png) 
+| ![Screen1](assets/1.png) | ![Screen2](assets/2.png) | ![Screen3](assets/3.png) | ![Screen3](assets/4.png) 
 
 ---
 

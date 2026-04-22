@@ -34,13 +34,3 @@ Bu uygulama modern mobil geliştirme araçları kullanılarak inşa edilmiştir:
 * **React Native / Expo:** Cross-platform (iOS & Android) geliştirme için.
 * **TypeScript:** Daha güvenli ve sürdürülebilir bir kod yapısı için.
 * **AsyncStorage:** Yerel veri saklama ve kullanıcı ilerlemesini kaydetmek için.
-
----
-
-## 🚀 Başlangıç (Kurulum)
-
-Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
-
-1. **Repoyu klonlayın:**
-   ```bash
-   git clone [https://github.com/kullaniciadi/english-learn-with-words.git](https://github.com/kullaniciadi/english-learn-with-words.git)

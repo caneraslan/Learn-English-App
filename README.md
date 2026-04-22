@@ -23,7 +23,7 @@ A cross-platform mobile application for learning English vocabulary through inte
 
 | Ana Ekran | Eşleştirme Modu | Başarı Ekranı |
 | :---: | :---: | :---: |
-| ![Screen1](assets/screenshots/main_screen.png) | ![Screen2](assets/screenshots/match_screen.png) | ![Screen3](assets/screenshots/score_screen.png) |
+| ![Screen1](assets/1.png) | ![Screen2](assets/2.png) | ![Screen3](assets/3.png) | | ![Screen3](assets/4.png) 
 
 ---
 
